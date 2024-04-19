@@ -1,6 +1,6 @@
 {
   "name": "nicetoken",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -24,6 +24,7 @@
     "ttlonger": "^0.1.1",
     "vistea": "^0.1.0",
     "wakinjoseph": "^0.1.3",
+    "wiftea": "^0.1.1",
     "zdaface": "^0.1.2"
   },
   "devDependencies": {
